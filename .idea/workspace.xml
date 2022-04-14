@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a055505-a4f0-4a8b-91b4-119681d185ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bai3.1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai3.2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai3.3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai3.4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai2.php" beforeDir="false" afterPath="$PROJECT_DIR$/bai2.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uTbUUXW71vzPi5wTVNvzKtAa0x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\hoc-php" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a055505-a4f0-4a8b-91b4-119681d185ba" name="Default Changelist" comment="" />
+      <created>1624692541923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624692541923</updated>
+      <workItem from="1624692543309" duration="5000" />
+      <workItem from="1624794515747" duration="7450000" />
+      <workItem from="1624881902630" duration="19000" />
+      <workItem from="1624962871148" duration="201000" />
+      <workItem from="1624963480484" duration="441000" />
+      <workItem from="1624968713389" duration="1340000" />
+      <workItem from="1624970206119" duration="185000" />
+      <workItem from="1625240413513" duration="89000" />
+      <workItem from="1625398363450" duration="759000" />
+      <workItem from="1625667440524" duration="24000" />
+      <workItem from="1625813379923" duration="3000" />
+      <workItem from="1626004516570" duration="115000" />
+      <workItem from="1626005141846" duration="869000" />
+      <workItem from="1626006799108" duration="9000" />
+      <workItem from="1626006872261" duration="41000" />
+      <workItem from="1626006969150" duration="10000" />
+      <workItem from="1626007049805" duration="1023000" />
+      <workItem from="1626176472377" duration="8000" />
+      <workItem from="1626291428504" duration="15000" />
+      <workItem from="1626540828747" duration="1180000" />
+      <workItem from="1626625593421" duration="4000" />
+      <workItem from="1626761202481" duration="11000" />
+      <workItem from="1626771726500" duration="427000" />
+      <workItem from="1626774925482" duration="863000" />
+      <workItem from="1626868218270" duration="119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
